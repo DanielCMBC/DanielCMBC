@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm DanielCMBC</h1>
-<h3 align="center">Experienced software developer with a solid foundation across the entire development stack—from low-level system programming to modern frontend and backend technologies. Focused on delivering efficient, maintainable solutions and continuously expanding technical expertise.</h3>
+<h3 align="center">Experienced software developer with a solid foundation across the entire development stack—from low-level system programming, such as the basics of C and Assembly NASM, to modern frontend and backend technologies. Focused on delivering efficient, maintainable solutions and continuously expanding technical expertise.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=danielcmbc&label=Profile%20views&color=0e75b6&style=flat" alt="danielcmbc" /> </p>
 
